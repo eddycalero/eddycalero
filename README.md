@@ -6,7 +6,7 @@
 <img src="https://i.pinimg.com/originals/b0/c8/19/b0c81961153a56eab83cf03d862345af.gif">
 </div>
 
- Actual estudiante de Quinto año de Ingenieria de Sistemas en la Universidad Nacional de Ingenieria(UNI), Me gusta aprender siempre de los demas y asi mejorar en lo profesional y personal, me facina la idea de desarrollar Software y y asi lograr conocimientos en las distintas areas de este maravilloso mundo como lo la creacion de Software. con deseo de formar parte del mundo laboral y adquirir siempre nuevos conocimientos.
+ Actual estudiante de Quinto año de Ingenieria de Sistemas en la Universidad Nacional de Ingenieria(UNI), Me gusta aprender siempre de los demas y asi mejorar en lo profesional y personal, me facina la idea de desarrollar Software y asi lograr conocimientos en las distintas areas de este maravilloso mundo como lo es la creacion de Software. con deseo de formar parte del mundo laboral y adquirir siempre nuevos conocimientos.
 
 # Tecnologias que Uso
 
